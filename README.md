@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://melany-martinez.vercel.app/">
-    <img src="assets/banner.svg" alt="Melany Martínez, estudiante de Ingeniería del Software en la Universidad de Málaga" width="100%" />
+    <img src="assets/banner-v2.svg" alt="Melany Martínez, estudiante de Ingeniería del Software en la Universidad de Málaga" width="100%" />
   </a>
 </p>
 
